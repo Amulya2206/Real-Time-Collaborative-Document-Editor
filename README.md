@@ -1,4 +1,16 @@
 # Real Time Collaborative Document Editor
+COMPANY CODTECH IT SOLUTIONS
+
+NAME: YATHIPATHI AMULYA
+
+INTERN ID:  :CT04DR2165
+
+DOMAIIN: FULL STCK WEB DEVLOPMENT
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTOSH
+
 The Real-Time Collaborative Document Editor is a web-based platform that enables multiple users to edit the same document simultaneously with real-time updates. It uses WebSocket communication for instant synchronization across all connected users. The project stores documents in a database and supports autosave, manual save, and document-based session management. It is ideal for collaborative editing, classrooms, remote workspace collaboration, and similar use cases.
 
 # Features
